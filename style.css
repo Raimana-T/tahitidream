@@ -1,0 +1,30 @@
+.header
+{
+	text-align: center;
+    background-image: url(img/back1.jpg);
+    background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 100px;
+}
+
+.text
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+img
+{
+	border: black 1px solid ridge;
+}
+
+h1
+{
+	padding: 50px;
+}
+
+footer
+{
+	background-color: rgb(0, 100, 255);
+	
+}
